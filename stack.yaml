@@ -1,0 +1,8 @@
+resolver: lts-11.22
+packages:
+- .
+
+extra-deps:
+ - distributed-process-client-server-0.2.5.1@sha256:6e29e84673f689e85f49a51b86901077039965fd2340e0002527e8332463c178
+ - distributed-process-async-0.2.6@sha256:42d6b759da0990c91303cc589ed02fe38d57973410f02f5fdabb1e135a943514
+ - distributed-process-extras-0.3.5@sha256:aa1789b3af8f7a9921c8723b27c3520d88bf9b14613b27ce2deefe48a3c9ac88
